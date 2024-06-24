@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **saikumar4@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1FktGoGzi4CMTA8-zsrI2Uk4bBZrooKZz/view?usp=sharing](https://drive.google.com/file/d/1FktGoGzi4CMTA8-zsrI2Uk4bBZrooKZz/view?usp=sharing)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/voggu-sai-kumar-0a3667183/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/voggu-sai-kumar-0a3667183/" height="30" width="40" /></a>
